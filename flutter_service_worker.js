@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ab367ab48a90a43474f0f748ec3984a7",
-"index.html": "b291b95a241122303d32b46b563fb471",
-"/": "b291b95a241122303d32b46b563fb471",
-"main.dart.js": "543f1ba56d74112816080704b6ec5857",
+"index.html": "03b6b5898377afd335883dc969680013",
+"/": "03b6b5898377afd335883dc969680013",
+"main.dart.js": "e7a25664824122123f709cb88e6d5413",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/assets/back1.png": "377ed01518f82fe036fbd8e8a46e69d0",
 "assets/assets/bunjee.jpeg": "18e406682c29494f6894da5d56fb16dd",
 "assets/assets/water%2520sports.jpeg": "913e08982a01b3a7febe507e50173d58",
-"assets/assets/logo.png": "c05865f0fbff1c14f735e816047722f6",
+"assets/assets/logo.png": "77537a292b6368360721486d2032abec",
 "assets/assets/bike.jpeg": "5aadee66dbf2c6a02b275e7ba5136dc4",
 "assets/assets/back4.png": "ad2b36439dbaf37c6833b3f0910177f2",
 "assets/assets/insta-logo.png": "3ab9e7421e5c2f5c99cee0c470a95146",
